@@ -1,10 +1,10 @@
-1 Harry_Potter JK_Rowling 1200.00 5
-2 Brave_New_World Aldous_Huxley 700.00 4
-3 Alchemist Paulo_Coelho 500.00 6
-4 Sapiens Yuval_Harari 900.00 7
-5 Homo_Deus Yuval_Harari 850.00 5
-6 Guns_Germs_James_Diamond 1100.00 4
-7 Educated Tara_Westover 650.00 6
-8 Thinking_Fast_Daniel_Kahneman 1200.00 3
-9 Outliers Malcolm_Gladwell 750.00 5
-10 Factfulness Hans_Rosling 800.00 4
+1|The Alchemist|Paulo Coelho|500.00|8
+2|1984|George Orwell|450.00|10
+3|To Kill a Mockingbird|Harper Lee|600.00|7
+4|The Great Gatsby|F. Scott Fitzgerald|550.00|5
+5|Harry Potter|J.K. Rowling|1200.00|12
+6|The Hobbit|J.R.R. Tolkien|800.00|6
+7|Pride and Prejudice|Jane Austen|400.00|9
+8|The Catcher in the Rye|J.D. Salinger|450.00|4
+9|Sapiens|Yuval Noah Harari|1000.00|10
+10|The Da Vinci Code|Dan Brown|700.00|8
